@@ -1,0 +1,1 @@
+# Banco-de-Dados-Streaming-Service-Solution-
